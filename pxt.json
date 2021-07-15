@@ -1,5 +1,6 @@
 {
     "name": "00002-earthquake-detector-CF-01-13",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
